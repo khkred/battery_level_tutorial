@@ -1,7 +1,3 @@
-Certainly! Here is an updated version of the README for your GitHub repository, incorporating details about your article and the source code.
-
----
-
 # Battery Level Tutorial
 
 This repository contains the source code for the tutorial on how to use Platform Channels in Flutter to get the battery level of a device. The full tutorial can be found in the article [How to Use Platform Channels in Flutter](https://harishkunchala.com/how-to-use-platform-channels-in-flutter).
@@ -71,10 +67,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or feedback, feel free to reach out via the comments section of the article or open an issue on this repository.
-
----
-
-This updated README provides a comprehensive overview of the project, instructions for getting started, and details about the implementation of Platform Channels in both Android and iOS. It also includes a link to your detailed article for further reading.
-
-Citations:
-[1] https://github.com/khkred/battery_level_tutorial
